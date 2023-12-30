@@ -64,4 +64,10 @@ p{
     .col1,.col2,.col3,.col4,.col5{
         width: 100%;
     }
+    p{
+        font-size: 1rem;
+    }
+    h1{
+        font-size: 4rem;
+    }
 }
